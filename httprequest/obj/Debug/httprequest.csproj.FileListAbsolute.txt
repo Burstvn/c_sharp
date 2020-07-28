@@ -1,0 +1,12 @@
+E:\1.HOC_TAP\HTTP_request\httprequest\httprequest\bin\Debug\httprequest.exe.config
+E:\1.HOC_TAP\HTTP_request\httprequest\httprequest\bin\Debug\httprequest.exe
+E:\1.HOC_TAP\HTTP_request\httprequest\httprequest\bin\Debug\httprequest.pdb
+E:\1.HOC_TAP\HTTP_request\httprequest\httprequest\bin\Debug\xNet.dll
+E:\1.HOC_TAP\HTTP_request\httprequest\httprequest\obj\Debug\httprequest.csprojAssemblyReference.cache
+E:\1.HOC_TAP\HTTP_request\httprequest\httprequest\obj\Debug\httprequest.Form1.resources
+E:\1.HOC_TAP\HTTP_request\httprequest\httprequest\obj\Debug\httprequest.Properties.Resources.resources
+E:\1.HOC_TAP\HTTP_request\httprequest\httprequest\obj\Debug\httprequest.csproj.GenerateResource.cache
+E:\1.HOC_TAP\HTTP_request\httprequest\httprequest\obj\Debug\httprequest.csproj.CoreCompileInputs.cache
+E:\1.HOC_TAP\HTTP_request\httprequest\httprequest\obj\Debug\httprequest.csproj.CopyComplete
+E:\1.HOC_TAP\HTTP_request\httprequest\httprequest\obj\Debug\httprequest.exe
+E:\1.HOC_TAP\HTTP_request\httprequest\httprequest\obj\Debug\httprequest.pdb
